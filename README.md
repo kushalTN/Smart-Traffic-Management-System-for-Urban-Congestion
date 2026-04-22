@@ -70,7 +70,7 @@ LSTM model takes last 10 vehicle counts and predicts next hour traffic.
 ## ▶️ How to Run
 
 1. Clone the repository  
-git clone [https://github.com/your-username/traffic-management-system.git ](https://github.com/kushalTN/Smart-Traffic-Management-System-for-Urban-Congestion) 
+git clone [https://github.com/kushalTN/Smart-Traffic-Management-System-for-Urban-Congestion] 
 
 2. Navigate to project folder  
 cd traffic-management-system  
